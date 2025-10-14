@@ -1,9 +1,9 @@
 
  body {
-  background-color: #f5f5f5; /* ash gray */
+  background-color: #f5f5f5; /
   margin: 0;
   padding: 20px;
-  color: #264d00; /* dark green */
+  color: #264d00; 
   font-family: Arial, sans-serif;
 }
 
@@ -35,7 +35,7 @@ p{
   font-weight: bold;
 }
   input[type="submit"] {
-  background-color: #4caf50; /* green */
+  background-color: #4caf50; 
   color: white;
   padding: 12px 18px;
   margin-top: 10px;
@@ -50,7 +50,7 @@ table {
   border-collapse: collapse;
   padding: 10px;
   margin: 20px ;
-  background-color: #f0ead8; /* cream */
+  background-color: #f0ead8; 
 }
 
 
@@ -60,7 +60,7 @@ table {
   margin: 30px auto;
   padding: 20px;
   max-width: 1000px;
-  background-color: #f0ead8; /* cream */
+  background-color: #f0ead8; 
   border: 2px solid green;
   border-radius: 8px;
 }
@@ -70,7 +70,7 @@ table {
   flex: 2;
   padding: 20px;
   margin-right: 20px;
-  background-color: #dff0d8; /* light green */
+  background-color: #dff0d8; 
   border-radius: 6px;
 }
 
@@ -78,7 +78,7 @@ table {
 .sidebar {
   flex: 1;
   padding: 20px;
-  background-color: #f5f5f5; /* ash gray */
+  background-color: #f5f5f5; 
   border-left: 2px solid #4caf50;
   border-radius: 6px;
 }
