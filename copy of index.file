@@ -25,20 +25,12 @@
       <p>In my Morning Routine at college, I wake up at <strong >7:30 am</strong>. I also brush my teeth, and get ready for my first class. My first class at Michigan State University is CSE 231 at <strong >9:00 am</strong>. I wash my face with my daily facial cleanser and then I take shower. Next, I get out the shower, dry off, and find some nice clothes to put on.I also pack my gym bag . I then, make my way to my car and drive to campus which is roughly at 10 minue drive. By the time I get to campus, it’s usually about<strong > 8 am</strong>. With an hour of time to spare, I usually will stop by the dining hall to potentially eat breakfast. Depending on the day and dining hall, there are usually a different variety of breakfast items to choose from. On this Tuesday morning, I decided to go to Brody Hall in Brody Neighboorhoodd to eat breakfast.  After breakfast, I decide to purchase a snack from Sparty’s a exclusive store located on the first floor of brody square. I purchase a Combo X which is a combo of three items that comes with a beverage, a protein item, and a snack item. I decided to get a to go water bottle, a cup of cereal and pretzels to take with me to class. After this, I make my way to class to Wilson hall.
         </article>
       </p>
-      <div class="right">
-        <img src = "campus.jpg" Width = 400px>
-      </div>
-    </section>
-     
-      <div class="flex-container">
-      <div class="main-content">
+     <img src = "campus.jpg" Width = 400px>
+      </section>
        <h2 class = "highlight">After Classes Routinue & Study Schedule</h2>
        <p> 
         To continue, at Michigan State University, my class schedule consists of 2 more person classes. With this being said, the classes are MI 401 Topics in Information science at <strong > 12:00 pm</strong> and MI 349 Web Design and Devlopment at <strong > 3:00 pm</strong>. After going to all my classes, it is usually about <strong > 5:00 pm</strong>. I make my way to the IM West gym on campus and usually spen roughly an hour max at the gym. I would usually stretch,do cardio, do weights, and reps of sit ups to strengthen my core. After about an hour, i would leave and go to the dining hall to eat some food. The options have of course changed since it is now dinner time. At the dining hall I decided to eat dinner and get dessert and then leave. I then walk to my car and drive back to my apartment. When I arrive at my apartment, I take a shower, get out, and then begin reviewing my planner. Scheduled for <strong >7:30 - 9:30 pm</strong>, I study, work on, and complete any work that i can get done within this time period as I’m usually very productive around this time along with the morning. After my study session, I review my tasks for the next day, brush my teeth and go to bed. 
        </p>
-      </div>
-
-      <div class="sidebar">
        <section>
        <img src = "weights.jpg" Width = 500px>
        <br> 
@@ -71,9 +63,7 @@
              </tr>
            </tbody>
          </table>
-        <div>
-      </div>
-      <p>This is a table showcasing my classes, class times, and the amount of credits that the class is. <p>
+       <p>This is a table showcasing my classes, class times, and the amount of credits that the class is. <p>
   </section>
     <h2 class="highlight">Sign up for my Newsletter</h2>
         <p>Enter your Name and Email Address down below.</p>
