@@ -60,7 +60,7 @@ table {
   margin: 30px auto;
   padding: 20px;
   max-width: 1000px;
-  background-color: #f0ead8; 
+  background-color: #e7e0cc; 
   border: 2px solid green;
   border-radius: 8px;
 }
@@ -132,5 +132,97 @@ table {
   text-transform: capitalize;
 }
   
+html, body {
+  overflow-x: hidden;
+  box-sizing: border-box;
+} 
+
+table {
+  border-bottom: #0b0b0b;
+  border-radius: 20%;
+
+}
+@media screen and (max-width: 900px) {
+  .flex-container {
+    flex-direction: column; 
+    align-items: stretch;   
+    gap: 20px;               
+  }
+
+  .main-content, .sidebar {
+    width: 100%;            
+    max-width: 100%;        
+    margin: 0 auto;         
+    padding: 15px;
+    background-color:FFDD4;
+    box-sizing: border-box; 
+  }
+}
+.main-content img,
+.sidebar img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 100%;
+}
+
+  nav a {
+    display: inline-block;
+    padding: 8px;
+    font-size: 16px;
+  }
+
+  header {
+    font-size: 20px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  header {
+    font-size: 18px;
+    padding: 15px;
+    background-color: #439946;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav a {
+    display: block;
+    padding: 10px 0;
+    font-size: 14px;
+  }
+
+  section, .main-content, .sidebar {
+    padding: 10px;
+  }
+
+  table {
+    padding: 100px;
+  }
+
+  form input[type="text"], form input[type="submit"] {
+    font-size: 14px;
+    padding: 6px;
+  }
+footer {
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+  }
+}
+
+
+
+
+
+
+
+
+
 
 
