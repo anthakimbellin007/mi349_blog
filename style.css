@@ -154,12 +154,12 @@ html, body {
     box-sizing: border-box; 
   }
 }
-.main-content img,
 .sidebar img {
-  width: 100%;
+  width: 70%;
   height: auto;
   display: block;
-  max-width: 100%;
+  margin: 0 auto;
+}
 }
 
   nav a {
@@ -221,7 +221,6 @@ Weightsphoto{
 }
 
 }
-
 
 
 
